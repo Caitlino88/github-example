@@ -1,0 +1,13 @@
+dddddddtest
+exit
+
+
+
+close
+kill
+nona filename
+:q!
+
+dddd
+
+>
